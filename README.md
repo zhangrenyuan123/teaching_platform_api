@@ -3,11 +3,11 @@
 
 ### 项目启动
 
-'
-  npm i 
+
+ `npm i` 
   
-  npm run serve
-'
+ `npm run serve`
+
 
 实践教学平台的接口部分，可以使用postman进行测试
 
